@@ -1,5 +1,7 @@
 #Set the work directory
-dir = "C:/Users/DELL/Google Drive/JVN couse materials/Projects/Get and clean data/final project"
+#Insert the work directory in the dir variable
+
+dir = ""
 setwd(dir)
 
 #Create the data folder if not exists in the directory
