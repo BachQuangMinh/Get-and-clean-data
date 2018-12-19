@@ -1,0 +1,15 @@
+---
+title: "Codebook"
+output: github_document
+---
+## Introduction
+This is the Codebook describing the tidy data from the course project of the Coursera course - Get and Clean Data
+
+## Variable description
+1. subject - the subjects participated in carrying out the activities
+2. activity.labels - the activities conducted by the subject 
+3. 561 features - these are means, each which was computed from measures of the 561 features of the raw data respectively after grouping by each subject and then by each activities. 
+   For example, subject 1, do LAYING 6 times and we have values of a measure for those 6 times. Then the mean is computed over those 6 times of LAYING.
+
+
+
